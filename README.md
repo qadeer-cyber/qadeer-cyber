@@ -1,12 +1,32 @@
-<h1> Hey! Nice to see you. </h1>
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">Abdul Qadeer</h2>
+  <p align="center">🏆 Welcome to my page! I'm Abdul Qadeer from  Pakistan. </p>
+</p>
+
+<p align="center">
+  <a href="https://github.com/qadeer-cyber/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/qadeer-cyber/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/qadeer-cyber/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/qadeer-cyber/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/qadeer-cyber/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/qadeer-cyber/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/qadeer-cyber/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/qadeer-cyber/github-profile-trophy"/> 
+  </a>
+</p>
+
+
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=qadeer-cyber&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qadeer-cyber&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>Welcome to my page!<h1>
-<h2>I'm Abdul Qadeer from  Pakistan.<h2>
+
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qadeer-cyber&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
